@@ -1,0 +1,8 @@
+frmMain = 88, 88, 615, 535, Z, 22, 22, 571, 470, C
+modSubMain = 110, 110, 615, 558, 
+frmAbout = 0, 0, 527, 447, , 198, 198, 725, 645, C
+CMyItemData = 0, 0, 0, 0, C
+CMyItemDatas = 0, 0, 0, 0, C
+CoolMenu = 0, 0, 0, 0, C
+CMWndProc = 0, 0, 0, 0, C
+modNoSize = 0, 0, 0, 0, C
